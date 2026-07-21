@@ -4,9 +4,9 @@
 - [x] `frontend/netlify.toml` - Netlify build & redirect config
 - [x] `render.yaml` - Render blueprint config
 
-## 🔄 Step 2: Commit & push to GitHub
-- [ ] Commit deployment config files
-- [ ] Push to GitHub
+## ✅ Step 2: Commit & push to GitHub
+- [x] Commit deployment config files
+- [x] Push to GitHub
 
 ## ⬜ Step 3: Deploy Backend to Render
 - [ ] Connect GitHub repo to Render
